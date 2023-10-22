@@ -3,68 +3,29 @@
     {
       "name": "Armando Pfannerstill",
       "id": 19
-    },
-    {
-      "name": "Laura Towne",
-      "id": 21
-    },
-    {
-      "name": "Beulah Lehner",
-      "id": 28
-    },
-    {
-      "name": "Barbara Lehner DVM",
-      "id": 30
-    },
-    {
-      "name": "Anita Botsford",
-      "id": 31
-    },
-    {
-      "name": "Johnnie Mante",
-      "id": 32
     }
   ],
   "albums": [
-    {
-      "userId": 28,
-      "title": "Luxurious Bronze Ball",
-      "id": 2
-    },
-    {
-      "userId": 28,
-      "title": "Generic Concrete Hat",
-      "id": 3
-    },
-    {
-      "userId": 30,
-      "title": "Oriental Soft Ball",
-      "id": 4
-    },
-    {
-      "userId": 19,
-      "title": "Bespoke Steel Mouse",
-      "id": 6
-    },
     {
       "userId": 19,
       "title": "Licensed Fresh Tuna",
       "id": 7
     },
     {
-      "userId": 21,
-      "title": "Electronic Metal Car",
+      "userId": 19,
+      "title": "Luxurious Metal Ball",
       "id": 8
     },
     {
-      "userId": 21,
-      "title": "Modern Cotton Computer",
+      "userId": 19,
+      "title": "Licensed Steel Chicken",
       "id": 9
     },
     {
       "userId": 19,
-      "title": "Oriental Plastic Sausages",
+      "title": "Handcrafted Fresh Table",
       "id": 10
     }
-  ]
+  ],
+  "photos": []
 }

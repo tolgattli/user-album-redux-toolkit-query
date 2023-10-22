@@ -60,10 +60,6 @@ const albumsApi = createApi({
           return {
             url: `/albums/${album.id}`,
             method: "DELETE",
-            body: {
-              name: "Can",
-              id: 31,
-            },
           };
         },
       }),
